@@ -1,0 +1,14 @@
+C:\Users\Dang Dat\source\repos\Data_Transformation\bin\Debug\net8.0\Data_Transformation.exe
+C:\Users\Dang Dat\source\repos\Data_Transformation\bin\Debug\net8.0\Data_Transformation.deps.json
+C:\Users\Dang Dat\source\repos\Data_Transformation\bin\Debug\net8.0\Data_Transformation.runtimeconfig.json
+C:\Users\Dang Dat\source\repos\Data_Transformation\bin\Debug\net8.0\Data_Transformation.dll
+C:\Users\Dang Dat\source\repos\Data_Transformation\bin\Debug\net8.0\Data_Transformation.pdb
+C:\Users\Dang Dat\source\repos\Data_Transformation\obj\Debug\net8.0\Data_Transformation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dang Dat\source\repos\Data_Transformation\obj\Debug\net8.0\Data_Transformation.AssemblyInfoInputs.cache
+C:\Users\Dang Dat\source\repos\Data_Transformation\obj\Debug\net8.0\Data_Transformation.AssemblyInfo.cs
+C:\Users\Dang Dat\source\repos\Data_Transformation\obj\Debug\net8.0\Data_Transformation.csproj.CoreCompileInputs.cache
+C:\Users\Dang Dat\source\repos\Data_Transformation\obj\Debug\net8.0\Data_Transformation.dll
+C:\Users\Dang Dat\source\repos\Data_Transformation\obj\Debug\net8.0\refint\Data_Transformation.dll
+C:\Users\Dang Dat\source\repos\Data_Transformation\obj\Debug\net8.0\Data_Transformation.pdb
+C:\Users\Dang Dat\source\repos\Data_Transformation\obj\Debug\net8.0\Data_Transformation.genruntimeconfig.cache
+C:\Users\Dang Dat\source\repos\Data_Transformation\obj\Debug\net8.0\ref\Data_Transformation.dll

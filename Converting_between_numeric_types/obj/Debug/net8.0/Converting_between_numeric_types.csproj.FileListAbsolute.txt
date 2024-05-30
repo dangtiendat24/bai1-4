@@ -1,0 +1,14 @@
+C:\Users\Dang Dat\source\repos\Converting_between_numeric_types\bin\Debug\net8.0\Converting_between_numeric_types.exe
+C:\Users\Dang Dat\source\repos\Converting_between_numeric_types\bin\Debug\net8.0\Converting_between_numeric_types.deps.json
+C:\Users\Dang Dat\source\repos\Converting_between_numeric_types\bin\Debug\net8.0\Converting_between_numeric_types.runtimeconfig.json
+C:\Users\Dang Dat\source\repos\Converting_between_numeric_types\bin\Debug\net8.0\Converting_between_numeric_types.dll
+C:\Users\Dang Dat\source\repos\Converting_between_numeric_types\bin\Debug\net8.0\Converting_between_numeric_types.pdb
+C:\Users\Dang Dat\source\repos\Converting_between_numeric_types\obj\Debug\net8.0\Converting_between_numeric_types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dang Dat\source\repos\Converting_between_numeric_types\obj\Debug\net8.0\Converting_between_numeric_types.AssemblyInfoInputs.cache
+C:\Users\Dang Dat\source\repos\Converting_between_numeric_types\obj\Debug\net8.0\Converting_between_numeric_types.AssemblyInfo.cs
+C:\Users\Dang Dat\source\repos\Converting_between_numeric_types\obj\Debug\net8.0\Converting_between_numeric_types.csproj.CoreCompileInputs.cache
+C:\Users\Dang Dat\source\repos\Converting_between_numeric_types\obj\Debug\net8.0\Converting_between_numeric_types.dll
+C:\Users\Dang Dat\source\repos\Converting_between_numeric_types\obj\Debug\net8.0\refint\Converting_between_numeric_types.dll
+C:\Users\Dang Dat\source\repos\Converting_between_numeric_types\obj\Debug\net8.0\Converting_between_numeric_types.pdb
+C:\Users\Dang Dat\source\repos\Converting_between_numeric_types\obj\Debug\net8.0\Converting_between_numeric_types.genruntimeconfig.cache
+C:\Users\Dang Dat\source\repos\Converting_between_numeric_types\obj\Debug\net8.0\ref\Converting_between_numeric_types.dll

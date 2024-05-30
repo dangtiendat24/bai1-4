@@ -1,0 +1,14 @@
+C:\Users\Dang Dat\source\repos\Convert_between_char_type_and_int_type\bin\Debug\net8.0\Convert_between_char_type_and_int_type.exe
+C:\Users\Dang Dat\source\repos\Convert_between_char_type_and_int_type\bin\Debug\net8.0\Convert_between_char_type_and_int_type.deps.json
+C:\Users\Dang Dat\source\repos\Convert_between_char_type_and_int_type\bin\Debug\net8.0\Convert_between_char_type_and_int_type.runtimeconfig.json
+C:\Users\Dang Dat\source\repos\Convert_between_char_type_and_int_type\bin\Debug\net8.0\Convert_between_char_type_and_int_type.dll
+C:\Users\Dang Dat\source\repos\Convert_between_char_type_and_int_type\bin\Debug\net8.0\Convert_between_char_type_and_int_type.pdb
+C:\Users\Dang Dat\source\repos\Convert_between_char_type_and_int_type\obj\Debug\net8.0\Convert_between_char_type_and_int_type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dang Dat\source\repos\Convert_between_char_type_and_int_type\obj\Debug\net8.0\Convert_between_char_type_and_int_type.AssemblyInfoInputs.cache
+C:\Users\Dang Dat\source\repos\Convert_between_char_type_and_int_type\obj\Debug\net8.0\Convert_between_char_type_and_int_type.AssemblyInfo.cs
+C:\Users\Dang Dat\source\repos\Convert_between_char_type_and_int_type\obj\Debug\net8.0\Convert_between_char_type_and_int_type.csproj.CoreCompileInputs.cache
+C:\Users\Dang Dat\source\repos\Convert_between_char_type_and_int_type\obj\Debug\net8.0\Convert_between_char_type_and_int_type.dll
+C:\Users\Dang Dat\source\repos\Convert_between_char_type_and_int_type\obj\Debug\net8.0\refint\Convert_between_char_type_and_int_type.dll
+C:\Users\Dang Dat\source\repos\Convert_between_char_type_and_int_type\obj\Debug\net8.0\Convert_between_char_type_and_int_type.pdb
+C:\Users\Dang Dat\source\repos\Convert_between_char_type_and_int_type\obj\Debug\net8.0\Convert_between_char_type_and_int_type.genruntimeconfig.cache
+C:\Users\Dang Dat\source\repos\Convert_between_char_type_and_int_type\obj\Debug\net8.0\ref\Convert_between_char_type_and_int_type.dll

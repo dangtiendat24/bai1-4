@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GOKGsqLOb5q9/NoXheD1OTAzVdRMEt9+RSo7VzJnh6bSqHWxgPxV3XbHf4Bv8ax2DYwZ6c/EgcnL3gpxTQ8EDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dang Dat\\source\\repos\\Convert_between_char_type_and_int_type\\Convert_between_char_type_and_int_type.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dang Dat\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.5\\microsoft.dotnet.ilcompiler.8.0.5.nupkg.sha512",
+    "C:\\Users\\Dang Dat\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.5\\microsoft.net.illink.tasks.8.0.5.nupkg.sha512",
+    "C:\\Users\\Dang Dat\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.5\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
