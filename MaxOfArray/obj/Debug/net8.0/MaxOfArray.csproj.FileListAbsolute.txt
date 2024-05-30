@@ -1,0 +1,14 @@
+C:\Users\Dang Dat\source\repos\MaxOfArray\bin\Debug\net8.0\MaxOfArray.exe
+C:\Users\Dang Dat\source\repos\MaxOfArray\bin\Debug\net8.0\MaxOfArray.deps.json
+C:\Users\Dang Dat\source\repos\MaxOfArray\bin\Debug\net8.0\MaxOfArray.runtimeconfig.json
+C:\Users\Dang Dat\source\repos\MaxOfArray\bin\Debug\net8.0\MaxOfArray.dll
+C:\Users\Dang Dat\source\repos\MaxOfArray\bin\Debug\net8.0\MaxOfArray.pdb
+C:\Users\Dang Dat\source\repos\MaxOfArray\obj\Debug\net8.0\MaxOfArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dang Dat\source\repos\MaxOfArray\obj\Debug\net8.0\MaxOfArray.AssemblyInfoInputs.cache
+C:\Users\Dang Dat\source\repos\MaxOfArray\obj\Debug\net8.0\MaxOfArray.AssemblyInfo.cs
+C:\Users\Dang Dat\source\repos\MaxOfArray\obj\Debug\net8.0\MaxOfArray.csproj.CoreCompileInputs.cache
+C:\Users\Dang Dat\source\repos\MaxOfArray\obj\Debug\net8.0\MaxOfArray.dll
+C:\Users\Dang Dat\source\repos\MaxOfArray\obj\Debug\net8.0\refint\MaxOfArray.dll
+C:\Users\Dang Dat\source\repos\MaxOfArray\obj\Debug\net8.0\MaxOfArray.pdb
+C:\Users\Dang Dat\source\repos\MaxOfArray\obj\Debug\net8.0\MaxOfArray.genruntimeconfig.cache
+C:\Users\Dang Dat\source\repos\MaxOfArray\obj\Debug\net8.0\ref\MaxOfArray.dll
